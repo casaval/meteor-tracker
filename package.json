@@ -1,0 +1,23 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "mirror of tracker (from meteor)",
+  "main": "tracker.js",
+  "scripts": {
+    "test": "tracker_tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:casaval/meteor-tracker.git"
+  },
+  "keywords": [
+    "meteor",
+    "tracker"
+  ],
+  "author": "meteor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meteor/meteor/issues"
+  },
+  "homepage": "https://github.com/meteor/meteor"
+}
